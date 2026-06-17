@@ -37,13 +37,6 @@ The Smart Parking Management System is a web-based application developed to simp
 4. Import the database into phpMyAdmin.
 5. Open the project in your browser.
 
-## Future Enhancements
-
-* Online Payment Integration
-* QR Code-Based Entry System
-* AI-Based Parking Prediction
-* Mobile Application Support
-
 ## Author
 
 Nandhidha Sri S
