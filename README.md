@@ -29,14 +29,6 @@ The Smart Parking Management System is a web-based application developed to simp
 * Backend: PHP
 * Database: MySQL
 
-## Installation
-
-1. Install XAMPP.
-2. Copy the project folder to `htdocs`.
-3. Start Apache and MySQL.
-4. Import the database into phpMyAdmin.
-5. Open the project in your browser.
-
 ## Author
 
 Nandhidha Sri S
